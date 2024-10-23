@@ -1,4 +1,4 @@
-package br.edu.fatecriopreto.teste01102024;
+package br.edu.fatecriopreto.teste01102024.entities;
 
 import jakarta.annotation.Generated;
 import jakarta.persistence.Column;
